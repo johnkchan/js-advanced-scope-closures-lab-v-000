@@ -3,7 +3,7 @@ function produceDrivingRange(blockRange) {
     let iA = parseInt(a.slice(0, 2), 10);
     let iB = parseInt(b.slice(0, 2), 10);
     if (b - a <= blockRange) {
-      
+      return blockRange - (b - a);
     } else {
       
     }
