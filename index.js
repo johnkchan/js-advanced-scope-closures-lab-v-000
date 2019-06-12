@@ -4,6 +4,8 @@ function produceDrivingRange(blockRange) {
     let iB = parseInt(b.slice(0, 2), 10);
     if (b - a <= blockRange) {
       
+    } else {
+      
     }
   };
 }
