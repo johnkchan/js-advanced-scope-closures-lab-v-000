@@ -1,3 +1,3 @@
-function produceDrivingRange(){
+function produceDrivingRange(rng) {
   return function();
 }
