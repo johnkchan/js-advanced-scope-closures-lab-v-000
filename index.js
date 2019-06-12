@@ -15,3 +15,7 @@ function produceTipCalculator(percent) {
     return fare * percent;
   };
 }
+
+function createDriver() {
+  
+}
