@@ -1,5 +1,9 @@
 function produceDrivingRange(blockRange) {
   return function(a, b) {
-    if (b - a)
+    let iA = a.slice(0, 2);
+    let iB = b.slice(0, 2);
+    if (b - a) {
+      
+    }
   };
 }
